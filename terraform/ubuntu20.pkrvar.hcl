@@ -1,0 +1,12 @@
+proxmox_hostname = "https://canadium.beerus.fr"
+proxmox_username = "root@pam"
+proxmox_password = "Azer-1234"
+proxmox_node_name = "canadium"
+iso_url = "https://releases.ubuntu.com/20.04/ubuntu-20.04.4-live-server-amd64.iso"
+iso_storage_pool = "local"
+iso_checksum = "28ccdb56450e643bad03bb7bcf7507ce3d8d90e8bf09e38f6bd9ac298a98eaad"
+http_directory = "http"
+vm_name = "ubuntu-20.04"
+vm_id = 9999
+username = "madalynn"
+user_password = "ubuntu"
