@@ -1,8 +1,7 @@
 # Crée un cluster K3s en mode IaC avec les outils Hashicorp
 
-## Requirements
 
-## Requirements ##
+## Requirements 
 
 | Name          | Version |
 |---------------|---------|
